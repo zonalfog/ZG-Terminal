@@ -1,0 +1,9 @@
+# ZG Terminal - Benötigte Pakete
+# Standard Python Bibliotheken (keine Installation nötig):
+# tkinter, os, sys, subprocess, platform, datetime, shutil, socket, threading, time, pathlib, re, itertools
+
+# Externe Pakete (müssen installiert werden):
+psutil>=5.9.0
+
+# Optionale Pakete für erweiterte Netzwerkfunktionen:
+# netifaces>=0.11.0  # Nur für detaillierte Netzwerk-Interfaces auf Linux/Mac
